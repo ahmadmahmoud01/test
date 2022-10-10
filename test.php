@@ -1,6 +1,6 @@
 <?php
 
 echo "hello its ahmad";
-echo "this is ahmad";
+echo "this iis ahmad";
 
 ?>
